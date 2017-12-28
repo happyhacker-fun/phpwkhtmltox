@@ -1,0 +1,14 @@
+{
+    "name": "subtlephp/phpwkhtmltox",
+    "description": "PHP wrapper for wkhtmltox",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Frost Wong",
+            "email": "frostwong@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {}
+}
