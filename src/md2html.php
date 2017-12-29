@@ -14,15 +14,15 @@ $prefix = <<< PREFIX
 <html lang="zh">
 <head>
     <meta charset="UTF-8">
-    <style>
-thead {
-    display: table-row-group;
+    <style type="text/css">
+   
+table td {
 }
-</style>
-    <link href="https://fe.ksyun.com/project/resource/css/markdown-theme-default.css" rel="stylesheet">
+    </style>
+    <link href="github2.css" rel="stylesheet">
 </head>
 <body>
-<div class="markdown-body">
+<div>
 PREFIX;
 
 $suffix = <<<SUFFIX
